@@ -10,7 +10,7 @@ A Quality Management Dashboard provides real-time visibility into various qualit
 ## Tools Used
 
 - Power BI Software
-- Excel (Raw Data as csv file)
+- Excel (Raw Data)
 
 ## Data Model
 ![image](https://github.com/GoodbyeKittyy/Quality-Management-Dashboard/assets/161730857/18453509-4693-40bd-a1d0-e54990282246)
