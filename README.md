@@ -2,10 +2,10 @@
 
 A Quality Management Dashboard provides real-time visibility into various quality-related metrics and key performance indicators (KPIs) to ensure product and process quality meet predefined standards and customer expectations. It enables organizations to monitor defect rates, scrap rates, rework rates, and other quality metrics, track performance against quality targets, identify root causes of quality issues, and implement corrective and preventive actions to continuously improve quality processes and outcomes. Below is a non-exhaustive list of concepts integrated include the following:
 
-1. Geographical Segregation
-2. Profit Trending
-3. Gross Sales Trending
-4. Shipment Delay Time KPI
+1. Defect Rate Metrics
+2. Non-Conformance Reports (NCR) Analysis
+3. Audit and Inspection Findings
+
 
 ## Tools Used
 
